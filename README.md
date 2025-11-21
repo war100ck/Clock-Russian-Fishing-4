@@ -12,7 +12,7 @@
 Игровые часы с будильником для **Russian Fishing 4**.  
 Приложение отображает игровое время (2.5 реальных минуты = 1 игровой час) и позволяет настраивать будильники по игровому времени.
 
-![Steam Account Manager](https://github.com/war100ck/Clock-Russian-Fishing-4/blob/main/screen/Clock-Russian-Fishing-4.png)
+![Steam Account Manager](https://github.com/war100ck/Clock-Russian-Fishing-4/blob/main/screen/Clock_Russian_Fishing_4.png)
 
 ---
 
