@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
+# Установить поведение по умолчанию для всех файлов
 * text=auto
+
+# Явно указать текстовые файлы которые должны иметь LF окончания
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+
+# Указать бинарные файлы
+*.png binary
+*.jpg binary
+*.ico binary
+*.mp3 binary

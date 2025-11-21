@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Downloads](https://img.shields.io/github/downloads/war100ck/Clock-Russian-Fishing-4/total?style=for-the-badge&logo=github)](https://github.com/war100ck/Clock-Russian-Fishing-4/releases)
-[![License](https://img.shields.io/github/license/war100ck/Clock-Russian-Fishing-4?style=for-the-badge&logo=opensourceinitiative)](https://github.com/war100ck/Clock-Russian-Fishing-4/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative)](https://github.com/war100ck/Clock-Russian-Fishing-4/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![Tkinter](https://img.shields.io/badge/Toolkit-Tkinter-4A9CD4?style=for-the-badge&logo=python)](https://docs.python.org/3/library/tkinter.html)
 
